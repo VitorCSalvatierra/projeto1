@@ -34,38 +34,58 @@ body{
     font-family: 'Roboto', sans-serif;
     text-decoration: none;
     
+   
+    
 }
 .menu ul{
     
 }
 
+.conteudo{
+display: inline-flex;
 
+   
+}
 .imagem{
-    
-    border: solid rgb(145, 139, 139) 5px;
+    margin: 10px;
+    border: solid #363636 5px;
     border-radius: 7%;
     width: 525px;
     height:460px;
     align-items: center;
-   
-   
-    
+    margin-right: 0;
 }
+
 .legenda{
     color: white;
     padding-left: 20px;
     font-size: 20px;
     font-family: roboto;
-   
-    
+      
 }
 
 .imagemprincipal{
 width: 500px;
 height: 350x;
 margin: 13.5px;
-
+display: flex;
 
 
 }
 
+.produtos{
+  cursor: pointer;
+  color: white;
+  font-family: roboto;
+  height: 20px;
+  padding: 20px;
+  margin-left: 575px;
+  background-color: #4F4F4F;
+  
+}
+.listaprodutos{
+   padding: 10px;
+   background-color:#4F4F4F;
+   cursor: default;
+   
+}
