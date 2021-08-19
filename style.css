@@ -1,0 +1,71 @@
+html, body{
+    padding: 0;
+    margin: 0;
+}
+
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #363636;
+    height: 60px;
+  
+
+}
+
+.logo{
+ width: 70px;
+}
+
+body{
+    background-color: #1C1C1C;
+    
+}
+
+.links{
+    text-decoration: none;
+    color: white;
+}
+.menu li{
+    display: inline;
+    padding: 5px;
+    font-size: 20px;
+    margin-right: 25px;
+    font-family: 'Roboto', sans-serif;
+    text-decoration: none;
+    
+}
+.menu ul{
+    
+}
+
+
+.imagem{
+    
+    border: solid rgb(145, 139, 139) 5px;
+    border-radius: 7%;
+    width: 525px;
+    height:460px;
+    align-items: center;
+   
+   
+    
+}
+.legenda{
+    color: white;
+    padding-left: 20px;
+    font-size: 20px;
+    font-family: roboto;
+   
+    
+}
+
+.imagemprincipal{
+width: 500px;
+height: 350x;
+margin: 13.5px;
+
+
+
+}
+
